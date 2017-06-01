@@ -1,4 +1,4 @@
 # drzewo
 # test
 # moj projekt jest super
-# Minia jest cool
+# a moze jednak nie
